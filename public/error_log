@@ -1,0 +1,5 @@
+[24-Jan-2020 15:10:35 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\clientController::chat_view() in /home/byowmbia/masterit/app/Http/Controllers/clientController.php on line 1471
+[08-Apr-2020 11:33:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::mentor_payout() in /home/byowmbia/masterit/app/Http/Controllers/adminController.php on line 565
+[08-Apr-2020 11:33:56 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::mentor_payout() in /home/byowmbia/masterit/app/Http/Controllers/adminController.php on line 565
+[08-Apr-2020 12:22:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::masterit_earning() in /home/byowmbia/masterit/app/Http/Controllers/adminController.php on line 576
+[22-Apr-2020 12:54:25 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\clientController::payment_list() in /home/byowmbia/masterit/app/Http/Controllers/clientController.php on line 1692
